@@ -1,6 +1,8 @@
-#printf testing
+# printf testing
+Hier teste ich die funktionen von 'printf' in der Datei prinf.sh wird geprüft ob Parameter angegeben werden und gibt
+ihn dann aus.
 
-Hier teste ich die funktionen von 'printf' anbei sind noch weitere Funktionen:
+In der Datei touch-loop.sh werden vorher angegeben Dateien als Parameter gespeichert und dann erstellt.
 
 
 
